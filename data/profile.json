@@ -82,14 +82,15 @@
   ],
   "professionalExperience": [
     {
-      "name": "",
-      "period": "",
-      "description": ""
+      "name": "Tribo Propaganda",
+      "period": "mar/2019 - mai/2019 · 3 meses",
+      "description": "Estágio presencial em Jales - SP, atuando como Desenvolvedor Web. Responsável por manutenção corretiva e evolutiva em sites (HTML, CSS, JavaScript, PHP e CakePHP). Desenvolvimento de sistema de upload de arquivos para gestão de conteúdo. Criação de funcionalidades para melhorar usabilidade e performance. Colaboração com equipes de design e marketing para ajustes técnicos. Testes e depuração para garantir compatibilidade entre navegadores."
     },
     {
-      "name": "",
-      "period": "",
-      "description": ""
+      "name": "Alfa Vida (anteriormente Anjos Anônimos)",
+      "period": "abr/2025 - até o momento · 5 meses",
+      "description": "Atuação como Coordenador de Projetos em uma ONG de serviço social. A organização passou por um processo de reformulação e, desde [mês da mudança], passou a se chamar Alfa Vida, mantendo sua missão e projetos sociais com foco em impacto positivo na comunidade. Responsável pela liderança de equipes multidisciplinares para desenvolvimento de projetos tecnológicos, planejamento e execução de cronogramas, análise de requisitos e alinhamento com stakeholders para definir escopos técnicos. Implementação de ferramentas de gestão (Trello) para otimizar fluxos de trabalho e monitoramento de métricas de desempenho com elaboração de relatórios de progresso."
     }
+    
   ]
 }
