@@ -8,20 +8,52 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML5",
+        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/html.png?raw=true"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS3",
+        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/css.png?raw=true"
+      },
+      {
+        "name": "JS",
+        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/js.png?raw=true"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/react.png?raw=true"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Node.js",
+        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/nodejs.png?raw=true"
+      },
+      {
+        "name": "Mysql",
+        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/musql.png?raw=true"
+      },
+      {
+        "name": "PostgreSQL",
+        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/postgresql.png?raw=true"
+      },
+      {
+        "name": "Python",
+        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/python.png?raw=true"
+      },
+      {
+        "name": "Git",
+        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/git.png?raw=true"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/github.png?raw=true"
+      },
+      {
+        "name": "VS Code",
+        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/vscode.png?raw=true"
+      },
+      {
+        "name": "Docker",
+        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/docker.png?raw=true"
       }
     ],
     "softSkills": [
