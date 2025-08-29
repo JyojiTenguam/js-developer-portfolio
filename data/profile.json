@@ -29,7 +29,7 @@
       },
       {
         "name": "Mysql",
-        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/musql.png?raw=true"
+        "logo": "https://github.com/JyojiTenguam/js-developer-portfolio/blob/main/data/imgs/mysql.png?raw=true"
       },
       {
         "name": "PostgreSQL",
@@ -70,13 +70,13 @@
   ],
   "portfolio": [
     {
-      "name": "",
-      "url": "",
+      "name": "Portfolio - Jyoji Tenguam",
+      "url": "https://github.com/JyojiTenguam/jyoji-portfolio",
       "github": true
     },
     {
-      "name": "",
-      "url": "",
+      "name": "Clonando o Discord",
+      "url": "https://github.com/JyojiTenguam/clone-discord",
       "github": true
     }
   ],
